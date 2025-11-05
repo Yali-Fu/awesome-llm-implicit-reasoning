@@ -213,26 +213,31 @@ The official GitHub page for the survey paper "Implicit Reasoning in Large Langu
     [[YouTube]](https://www.youtube.com/watch?v=dgNut1AOadQ)
     [[Bilibili]](https://www.bilibili.com/video/BV1UvjzzSEKU/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
-3. 2025_arXiv_Randomized Soft Thinking_LLMs are Single-Threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking.
+3. 2025_arXiv_SwiReasoning_SwiReasoning=Switch-Thinking-inLatent-and-Explicit-for-Pareto-Superior-Reasoning-LLMs
+    [[arXiv]](https://arxiv.org/abs/2510.05069)
+    [[HomePage]](https://swireasoning.github.io/)
+    [[GitHub]](https://github.com/sdc17/SwiReasoning)
+
+5. 2025_arXiv_Randomized Soft Thinking_LLMs are Single-Threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking.
     [[arXiv]](https://arxiv.org/abs/2508.03440)
     [[Github]](https://github.com/WJMacro/Randomized-Soft-Thinking)
 
-4. 2025_arXiv_Soft Tokens, Hard Truths.
+6. 2025_arXiv_Soft Tokens, Hard Truths.
     [[arXiv]](https://arxiv.org/abs/2509.19170)
 
 
-6. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
+7. 2025_ACL_SoftCoT_SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs.
     [[arXiv]](https://arxiv.org/abs/2502.12134)
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2502.12134)
     [[Data-HuggingFace]](https://huggingface.co/datasets/xuyige/ASDiv-Aug)
 
-7. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
+8. 2025_arXiv_SoftCoT++_SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning.
     [[arXiv]](https://arxiv.org/abs/2505.11484)
     [[Github]](https://github.com/xuyige/SoftCoT)
     [[HuggingFace]](https://huggingface.co/papers/2505.11484)
 
-8. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
+9. 2025_arXiv_CoT2_Continuous Chain of Thought Enables Parallel Exploration and Reasoning.
    [[arXiv]](https://arxiv.org/abs/2505.23648)
    [[HuggingFace]](https://huggingface.co/papers/2505.23648)
 
